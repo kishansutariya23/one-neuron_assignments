@@ -1,5 +1,5 @@
-## This Repository contains the Assignments which is part of Full Stack Data Analytics Course.
-### Course Duration: 66h 58m 11s
+## This Repository contains the Assignments which is part of Pre-recorded videos of Full Stack Data Analytics Course.
+### Course Duration: approx. 66h 58m 11s
 
 
 
